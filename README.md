@@ -1,2 +1,2 @@
 # C-MVSIS
-Censored Mean Variance Index for Ultrahigh Dimensional Survival Data
+This code is for Censored Mean Variance Index for Ultrahigh Dimensional Survival Data.
